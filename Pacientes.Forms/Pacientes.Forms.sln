@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacientes.Forms.iOS", "Paci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacientes.Forms", "Pacientes.Forms\Pacientes.Forms\Pacientes.Forms.csproj", "{D5B45AE0-5E9A-4867-9027-33C51A732AE6}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Native", "Native", "{68ED12E8-5625-440E-8C7C-66930AFE7CC9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Ad-Hoc|Any CPU = Ad-Hoc|Any CPU
