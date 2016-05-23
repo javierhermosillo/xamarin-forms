@@ -1,0 +1,17 @@
+﻿{
+  "Version": "1.0",
+  "Locations": [
+    {
+      "Label": "LABEL",
+      "Address": "ADDRESS",
+      "Latitude": "LATITUDE",
+      "Longitude": "LONGITUDE"
+    },
+    {
+      "Label": "LABEL",
+      "Address": "ADDRESS",
+      "Latitude": "LATITUDE",
+      "Longitude": "LONGITUDE"
+    }
+  ]
+}
