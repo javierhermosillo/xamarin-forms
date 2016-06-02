@@ -1,13 +1,13 @@
 using System;
-using Pacientes.Forms.Droid;
+using Pacientes.Forms.iOS;
 using System.IO;
 using Pacientes.Forms.Interfaces;
-using Pacientes.Forms.Droid.Database;
+using Pacientes.Forms.iOS.Database;
 using Xamarin.Forms;
 
 [assembly: Dependency(typeof(SQLite_iOS))]
 
-namespace Pacientes.Forms.Droid.Database
+namespace Pacientes.Forms.iOS.Database
 {
     public class SQLite_iOS : ISQLite
     {
